@@ -2,3 +2,5 @@ nitya
 nidhi
 chaitra
 vichitra
+sanju
+anju
